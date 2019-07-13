@@ -50,6 +50,14 @@ public class TareaIngSoft {
                 linea.println("Año actual-> "+aActual);
                 linea.println("****Su edad es de: "+edad+" años****");
                 
+                if (edad >= 18){
+                    System.out.println("****Usted es mayor de edad****");
+                    linea.println("****Usted es mayor de edad****");
+                }else{
+                    System.out.println("****Usted no cumple con la mayoría de edad****");
+                    linea.println("****Usted no cumple con la mayoría de edad****");
+                }
+                
                 linea.close();
                 escribir.close();
             } catch (IOException ex) {
@@ -87,6 +95,14 @@ public class TareaIngSoft {
                 linea.println("Año de nacimiento ingresado-> "+fNacimiento);
                 linea.println("Año actual-> "+aActual);
                 linea.println("****Su edad es de: "+edad+" años****");
+                
+                if (edad >= 18){
+                    System.out.println("****Usted es mayor de edad****");
+                    linea.println("****Usted es mayor de edad****");
+                }else{
+                    System.out.println("****Usted no cumple con la mayoría de edad****");
+                    linea.println("****Usted no cumple con la mayoría de edad****");
+                }
                 linea.close();
                 escribir.close();
             } catch (IOException ex) {

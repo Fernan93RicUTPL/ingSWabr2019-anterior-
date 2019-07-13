@@ -1,8 +1,0 @@
-****Sus nombres-> Juan Luis****
-****Sus apellidos-> Lopez Gomez****
-****Su dirección-> Las orquideas calle de ejemplo****
-****Su correo electrónico-> Juan123@mail.com**** 
-
-Año de nacimiento ingresado-> 1993
-Año actual-> 2019
-****Su edad es de: 26 años****
